@@ -1,6 +1,4 @@
 #!/bin/bash
-
-# Проверка наличия аргумента
 if [ -z "$1" ]; then
     echo "Usage: $0 \"text\""
     exit 1
