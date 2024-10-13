@@ -86,11 +86,10 @@ let subject = "Конфигурационное управление"
 in {groups, student, subject}
 ```
 
-s
-
 ## Задача 3
 
 Язык нулей и единиц.
+
 ![alt text](pics/image32.png)
 
 ## Задача 4
