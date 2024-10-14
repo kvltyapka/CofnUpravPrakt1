@@ -127,6 +127,9 @@ else
 	exit 1
 fi
 ```
+![изображение](https://github.com/user-attachments/assets/30360786-a16e-4b4f-9e22-46b760961b33)
+
+
 ## Задание 7
 
 ```
